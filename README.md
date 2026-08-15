@@ -1,52 +1,32 @@
-<div align="center">
+# 🏆 cp (Competitive Programming Compilation)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A0A0A,100:141414&section=header&animation=fadeIn" alt=""/>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![C++](https://img.shields.io/badge/Language-C++17-blue.svg)](https://isocpp.org/)
 
-<h1 align="center">cp</h1>
+> *A structured workspace for tracking progress, revisiting past approaches, and preparing for competitive programming events like ICPC 2025–26.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=15&duration=3000&pause=1400&color=D4AF37&center=true&vCenter=true&width=460&lines=personal+competitive+programming+compilation;contest+solutions+%C2%B7+problem+solutions;built+on+the+way+to+ICPC" alt="personal competitive programming compilation" />
+## 🚀 About
 
-<br/><br/>
+This repository is my running record of competitive programming practice. It houses contest submissions and standalone problem solutions, consolidated in one place rather than scattered across various judges. 
 
-<img src="https://img.shields.io/github/license/sinhasvnit/cp?style=flat-square&color=D4AF37&labelColor=0A0A0A" alt="License"/>
-<img src="https://img.shields.io/github/languages/top/sinhasvnit/cp?style=flat-square&color=D4AF37&labelColor=0A0A0A" alt="Top language"/>
-<img src="https://img.shields.io/github/last-commit/sinhasvnit/cp?style=flat-square&color=D4AF37&labelColor=0A0A0A" alt="Last commit"/>
-<img src="https://img.shields.io/github/repo-size/sinhasvnit/cp?style=flat-square&color=D4AF37&labelColor=0A0A0A" alt="Repo size"/>
+It exists primarily as a personal workbench to revisit old attempts, track the evolution of my problem-solving logic, and maintain a searchable trail of my work. **Note:** This is a live workspace, not a polished showcase. Expect rough drafts, first-pass solutions, and code optimized for the clock rather than readability.
 
-<br/><br/>
-
-<a href="https://codeforces.com/profile/ardent_adi">Codeforces</a> &nbsp;·&nbsp;
-<a href="https://github.com/sinhasvnit">GitHub</a> &nbsp;·&nbsp;
-<a href="https://linktr.ee/aksinha">linktr.ee/aksinha</a>
-
-<br/><br/>
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D4AF37,100:0A0A0A"/>
-
-</div>
-
-### About
-
-This repository is my running record of competitive programming practice — contest submissions and standalone problem solutions, kept in one place instead of scattered across judges. It exists mainly for myself: to revisit old attempts, track how my approach to a problem changes over time, and keep a searchable trail of work as I prepare for ICPC 2025–26.
-
-Nothing here is polished for an audience. It's a workbench, not a showcase — expect drafts, first-pass solutions, and code written under a clock rather than for readability.
-
-<br/>
-
-### Structure
+## 🌟 Project Structure
 
 ```text
 cp/
 ├── contest/
 │   └── inception/     # Solutions from the "Inception" contest
-├── problems/           # Standalone problem solutions
+├── problems/
+│   ├── STL/           # Standard Template Library explorations
+│   │   ├── a.cpp
+│   │   └── test
+│   └── greedy/        # Greedy algorithms (theory and practice)
+│       ├── a.cpp
+│       └── README.md
 ├── .gitignore
-├── LICENSE             # MIT
+├── LICENSE            # MIT
 └── README.md
-```
-
-<br/>
-
 ### Contents
 
 **`contest/inception/`**
