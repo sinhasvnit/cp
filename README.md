@@ -1,4 +1,4 @@
-# 🏆 cp (Competitive Programming Compilation)
+ii# 🏆 cp (Competitive Programming Compilation)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/Language-C++17-blue.svg)](https://isocpp.org/)
@@ -7,7 +7,7 @@
 
 ## 🚀 About
 
-This repository is my running record of competitive programming practice. It houses contest submissions and standalone problem solutions, consolidated in one place rather than scattered across various judges. 
+This repository is my running record of competitive programming practice. It houses contest submissions and standalone problem solutions, consolidated in one place rather than scattered across various judges.
 
 It exists primarily as a personal workbench to revisit old attempts, track the evolution of my problem-solving logic, and maintain a searchable trail of my work. **Note:** This is a live workspace, not a polished showcase. Expect rough drafts, first-pass solutions, and code optimized for the clock rather than readability.
 
@@ -27,6 +27,8 @@ cp/
 ├── .gitignore
 ├── LICENSE            # MIT
 └── README.md
+```
+
 ### Contents
 
 **`contest/inception/`**
@@ -50,7 +52,6 @@ Written primarily in **C++**, using standard competitive-programming idioms — 
 ```bash
 git clone https://github.com/sinhasvnit/cp.git
 cd cp
-
 # compile a solution
 g++ -O2 -std=c++17 path/to/solution.cpp -o solution
 ./solution
@@ -78,11 +79,7 @@ Released under the [MIT License](./LICENSE).
 <br/>
 
 <div align="center">
-
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:D4AF37,100:0A0A0A"/>
-
 <br/>
-
 <sub><i>A solved problem is just a proof that stopped arguing.</i></sub>
-
 </div>
